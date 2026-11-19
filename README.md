@@ -10,6 +10,7 @@ how unusual is the 2026 drop?
 
 **Data:** U.S. EIA, International Energy Statistics (monthly crude oil
 including lease condensate, thousand barrels per day), 642 months.
+Downloaded November 2026 from www.eia.gov (International data, monthly petroleum and other liquids production, Kuwait).
 
 ## Key findings
 - Output fell to zero for four months (Feb-May 1991), the lowest on record, coinciding with the Gulf War. These zeros are real, not missing data.
@@ -26,5 +27,10 @@ low-output months by year.
 - Monthly figures are often preliminary and may be revised.
 - Crude oil and lease condensate only (no natural gas liquids).
 
+## Files
+- `kuwait_production.csv`: cleaned monthly data (month, production_kbd)
+- `01_checks.sql`: data-quality and low-output queries
+- `Kuwait crude oil production 1973-2026.png`: production chart
+  
 ## Next steps
 Compare production with Brent price (1987-2026).
