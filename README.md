@@ -1,6 +1,8 @@
 
 # Kuwait Crude Oil Production, 1973-2026
 
+![Kuwait crude oil production, 1973-2026](Kuwait%20crude%20oil%20production%201973-2026.png)
+
 **Question:** How has Kuwait's crude output changed over 50+ years, and
 how unusual is the 2026 drop?
 
