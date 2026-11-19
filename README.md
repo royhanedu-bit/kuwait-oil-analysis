@@ -1,4 +1,4 @@
-# kuwait-oil-analysis
+
 # Kuwait Crude Oil Production, 1973-2026
 
 **Question:** How has Kuwait's crude output changed over 50+ years, and
@@ -10,11 +10,8 @@ how unusual is the 2026 drop?
 including lease condensate, thousand barrels per day), 642 months.
 
 ## Key findings
-- Output fell to zero for four months (Feb-May 1991) during the
-  Gulf War period, the lowest on record. These zeros are real, not
-  missing data.
-- April 2026 (570 thousand b/d) is the lowest month since the Gulf
-  War period, and the first below 1,000 since August 1992.
+- Output fell to zero for four months (Feb-May 1991), the lowest on record, coinciding with the Gulf War. These zeros are real, not missing data.
+- April 2026 (570 thousand b/d) is the lowest month since February 1992 (480), and the first month below 1,000 since August 1992.
 - Production fell from 2,660 (Feb 2026) to 570 (Apr 2026), a drop
   of about 79% in two months.
 
